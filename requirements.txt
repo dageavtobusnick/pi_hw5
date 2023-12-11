@@ -4,3 +4,4 @@ sacremoses
 fastapi
 uvicorn
 torch
+httpx
